@@ -1,0 +1,4 @@
+D:\Telerik\кпк 1\High-Quality-Code-Part-1-master\Topics\08. High-quality-Classes\homework\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.exe
+D:\Telerik\кпк 1\High-Quality-Code-Part-1-master\Topics\08. High-quality-Classes\homework\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.pdb
+D:\Telerik\кпк 1\High-Quality-Code-Part-1-master\Topics\08. High-quality-Classes\homework\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.exe
+D:\Telerik\кпк 1\High-Quality-Code-Part-1-master\Topics\08. High-quality-Classes\homework\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.pdb
